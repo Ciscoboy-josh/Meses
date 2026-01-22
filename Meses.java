@@ -5,7 +5,7 @@ public class Meses {
         System.out.println("enter your number");
         int number = sc.nextInt();
          if (number == 0){
-          System.out.println("dont exist");
+          System.out.println("doesnt exist");
         }
         else if (number == 1){
     System.out.println("Your month is january");
@@ -41,7 +41,7 @@ public class Meses {
              } else if (number == 12)
              System.out.println("Your month is december");
              else{
-                System.out.println("dont exist");
+                System.out.println("doesnt exist");
              }
 
         
